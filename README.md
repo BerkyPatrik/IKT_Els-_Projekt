@@ -16,4 +16,4 @@ Tartalom:
 
 Források:
 
-[https://www.slayer.net/collections/discography](https://www.metallica.com/)
+https://www.metallica.com/
