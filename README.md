@@ -1,7 +1,7 @@
 # IKT_Els-_Projekt
 1. Projekt
 
-Promo weboldal a Slayer bandáról
+Promo weboldal a Metallica bandáról
 
 Tartalom:
 
@@ -16,4 +16,4 @@ Tartalom:
 
 Források:
 
-https://www.slayer.net/collections/discography
+[https://www.slayer.net/collections/discography](https://www.metallica.com/)
