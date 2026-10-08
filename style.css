@@ -1,0 +1,59 @@
+.card{
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.KEA{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(87, 4, 4);
+}
+
+.RTL{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(12, 2, 100);
+}
+
+.MOP{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(201, 86, 10);
+}
+
+.JFA{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(73, 70, 70);
+}
+
+.BLCK{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(3, 3, 3);
+}
+
+.LD{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(97, 31, 1);
+}
+
+.RLD{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(66, 25, 2);
+}
+
+.STA{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(158, 53, 46);
+}
+
+.DM{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(72, 70, 87);
+}
+
+.HTS{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(32, 66, 47);
+}
+
+.S{
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgb(131, 146, 45);
+}
