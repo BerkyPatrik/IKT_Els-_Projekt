@@ -52,6 +52,13 @@ h1{
     color: white;
 }
 
+.LT-RED{
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgb(158, 53, 46);
+    background-color: rgb(129, 17, 2);
+    color: white;
+}
+
 .BLUE{
     border-radius: 15px;
     box-shadow: 10px 10px 20px rgb(45, 33, 156);
@@ -94,38 +101,31 @@ h1{
     color: white;
 }
 
-.LD{
+.LT-GREEN{
+    border-radius: 15px;
+    box-shadow: 10px 10px 20px rgb(72, 112, 90);
+    background-color: rgb(129, 194, 138);
+    color: white;
+}
+
+.LT-ORANGE{
     border-radius: 15px;
     box-shadow: 10px 10px 20px rgb(97, 31, 1);
     background-color: rgb(201, 64, 40);
     color: white;
 }
 
-.RLD{
+.BROWN{
     border-radius: 15px;
     box-shadow: 10px 10px 20px rgb(66, 25, 2);
     background-color: rgb(88, 30, 3);
     color: white;
 }
 
-.STA{
-    border-radius: 15px;
-    box-shadow: 10px 10px 20px rgb(158, 53, 46);
-    background-color: rgb(129, 17, 2);
-    color: white;
-}
-
-.DM{
+.CREAM{
     border-radius: 15px;
     box-shadow: 10px 10px 20px rgb(72, 70, 87);
     background-color: rgb(158, 141, 133);
-    color: white;
-}
-
-.HTS{
-    border-radius: 15px;
-    box-shadow: 10px 10px 20px rgb(72, 112, 90);
-    background-color: rgb(129, 194, 138);
     color: white;
 }
 
