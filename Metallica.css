@@ -9,16 +9,19 @@ hr{
     opacity: 1;
 }
 
-p{
-    color: yellow;
-}
-
 .hatter{
     background-color: rgba(85, 2, 2, 0.65);
     border-radius: 15px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
 }
 
 h1{
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
@@ -27,14 +30,13 @@ h1{
 
 .h1-custom{
     border-radius: 15px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
     background-color: yellow;
     opacity: 75%;
     margin-left: 500px;
     margin-right: 500px;
-}
-
-h5{
-    color: yellow;
 }
 
 .custom-navbar {
@@ -50,12 +52,15 @@ h5{
         0 65%);
 }
 
-.custom-img{
+#custom-img{
     width: 700px;
     height: 500px;
     margin-top: 20px;
     margin-bottom: 20px;
     border-radius: 15px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
 }
 
 .card{
@@ -64,6 +69,39 @@ h5{
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 14.5px;
+}
+
+table{
+    background-color: rgba(85, 2, 2, 0.65);
+    text-align: center;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+}
+
+th, td{
+    color: yellow;
+}
+
+button{
+    background-color: rgba(85, 2, 2, 0.65);
+    color: yellow;
+}
+
+button:hover{
+    background-color: yellow;
+    color:  rgba(85, 2, 2, 0.65);
+}
+
+button:active{
+    background-color: green;
+    color: black;
+}
+
+button:visited{
+    background-color: purple;
+    color: green;
 }
 
 .RED{
@@ -157,3 +195,20 @@ h5{
     color: white;
 }
 
+.custom-footer {
+    padding-top: 100px;
+    padding-left: 30px;
+    font-size: 20px;
+    position: relative;
+    min-height: 150px;
+    background: linear-gradient(
+        rgba(85, 2, 2, 0.65),
+        rgba(0, 0, 0, 0.65)
+    );
+    clip-path: polygon(
+    0 0,
+    100% 15%,
+    100% 100%,
+    0 100%
+    );
+}
