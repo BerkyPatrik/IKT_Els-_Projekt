@@ -1,4 +1,5 @@
 # IKT_Els-_Projekt
+
 1. Projekt
 
 - A projekt 6 darab különálló weboldalból fog felépülni -> Főoldal/Diszkográfiák/Metallica/Megadeth/Slayer/Anthrax
@@ -72,7 +73,7 @@ https://hu.wikipedia.org/wiki/Megadeth
 https://hu.wikipedia.org/wiki/Slayer
 https://hu.wikipedia.org/wiki/Anthrax_%28egy%C3%BCttes%29
 
-# Források a bandák valós élő koncertjeikről (Kivéve Anthrax mert nem túráznak):
+# Források a bandák valós élő koncertjeikről (Kivéve Anthrax mert nem túrnéznak):
 
 https://www.metallica.com/tour/
 https://www.megadeth.com/pages/tour
