@@ -32,6 +32,8 @@
 
 - Itt a kártyák tartalmazzák az album borítóját és azokhoz passzoló kártya háttereket és árnyékolásokat alkalmaztam színek után elnevezett osztályokkal
 
+- Különböző kijelző méretek esetén a Bootstrap row-cols elhelyezései lehetővé teszik az olvasási élményt
+
 # A Metallica weboldal felépítése:
 
 - A weboldal felépítése szintén egy grid layoutból áll, 1 sor 2 oszlop amit kétszer alkalmazok, egyszer úgy hogy a bal oldalt ban a kép és jobb oldalt a szöveg (Amelyet hr taggal elválasztok) illetve egyszer úgy hogy bal oldalt van a szöveg és job oldalt a kép
